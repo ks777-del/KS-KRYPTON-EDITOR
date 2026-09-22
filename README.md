@@ -106,7 +106,9 @@ For full setup instructions, see the [Nexus AI Gateway Setup Guide](docs/ai/nexu
 - **Security Vulnerabilities:** Follow the responsible disclosure guidelines in [SECURITY.md](SECURITY.md).
 
 ---
-
+## Downlaod Link 
+1. https://drive.google.com/file/d/1DhaFAM8kMd4DEg9iyrxOp7R-nHf2GHmU/view?usp=sharing
+   
 ## License
 
 KS KRYPTON VIDEO EDITOR is distributed under the terms of the GNU General Public License v3.0 (GPL-3.0). Documentation and guides are released under CC-BY-4.0.
